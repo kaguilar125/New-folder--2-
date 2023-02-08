@@ -17,3 +17,8 @@
     border: 1px solid var(--dark-blue);
     min-height: 50px;
     }
+    .col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8{
+        min-height: 50px;
+        border-right: medium dashed var(--salmon);
+        border-left: medium dashed var(--salmon);
+    }
